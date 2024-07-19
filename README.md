@@ -12,7 +12,7 @@
       New Tool for Instagram Hacking. Bruteforce Method
 </p>
 
-## About INSTA H4CK3R :
+## About INSTA H4CK3R :‌‌ 
 
 Insta Hacker is a python based Script. You can use this script for hacking Instagram (bruteforce). 
 
